@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-docker stop tomcat-server;
-docker rm tomcat-server;
+docker stop dennis/tomcat;
+docker rm dennis/tomcat;

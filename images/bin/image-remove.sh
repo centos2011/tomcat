@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-docker rm -f tomcat-server;
-docker rmi -f tomcat-server;
+docker rm -f dennis/tomcat;
+docker rmi -f dennis/tomcat;
